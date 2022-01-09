@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.go
+  visible: true
+  text: "package main\n\nimport \"fmt\"\n\nfunc main(){\n    fmt.Println(\"1\")\n\
+    \    /*\n    fmt.Println(\"2\")\n    fmt.Println(\"3\")\n    */\n    fmt.Println(\"\
+    4\")\n    // fmt.Println(\"5\")\n    fmt.Println(\"6\")\n    fmt.Println(\"7\"\
+    )    \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16696#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 09 Jan 2022 17:52:36 UTC
+record: -1
