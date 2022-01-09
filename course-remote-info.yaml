@@ -1,0 +1,73 @@
+hyperskill_project:
+  id: 201
+  ide_files: https://stepik.org/media/attachments/lesson/566375/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: Sun, 09 Jan 2022 16:02:25 UTC
+stages:
+- id: 998
+  step: 14555
+  is_completed: false
+- id: 999
+  step: 14556
+  is_completed: false
+- id: 1000
+  step: 14557
+  is_completed: false
+- id: 1001
+  step: 14558
+  is_completed: false
+topics:
+  0:
+  - title: Introduction to Go
+    theory_id: 17073
+  - title: Variables and constants
+    theory_id: 14468
+  - title: Input/Output
+    theory_id: 14527
+  - title: Pointers
+    theory_id: 15463
+  - title: Packages
+    theory_id: 15906
+  - title: Modules
+    theory_id: 15970
+  - title: Control statements
+    theory_id: 16235
+  - title: Loops
+    theory_id: 14707
+  - title: Primitive types
+    theory_id: 16871
+  - title: Strings
+    theory_id: 15412
+  - title: Arithmetic operations
+    theory_id: 16679
+  - title: Functions
+    theory_id: 16388
+  - title: Reading files in Go
+    theory_id: 16702
+  - title: Computer programming
+    theory_id: 8739
+  - title: Libraries
+    theory_id: 8504
+  - title: Errors
+    theory_id: 16774
+  - title: Working with files in Go
+    theory_id: 16498
+  1:
+  - title: Maps
+    theory_id: 16999
+  - title: Operations with maps
+    theory_id: 17206
+  - title: What is a bug
+    theory_id: 5504
+  - title: Debugging overview
+    theory_id: 14368
+  3:
+  - title: Main (compiling and running)
+    theory_id: 16128
+  - title: Arrays
+    theory_id: 14871
+  - title: Slices
+    theory_id: 15656
+  - title: Working with slices
+    theory_id: 15935

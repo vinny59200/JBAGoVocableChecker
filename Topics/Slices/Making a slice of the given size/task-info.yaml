@@ -1,0 +1,18 @@
+type: code
+files:
+- name: main.go
+  visible: true
+  text: "package main\n\nimport \"fmt\"    \n\nfunc solve(l int) []string {\n    //\
+    \ Put your code here\n    return yourSliceVariable\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15662#comment
+status: Solved
+feedback:
+  message: |-
+    <html>Passed test #1. OK
+    Passed test #2. OK
+    Passed test #3. OK
+    Passed test #4. OK
+    Passed test #5. OK</html>
+  time: Sun, 09 Jan 2022 16:33:50 UTC
+record: -1
